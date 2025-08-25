@@ -1,3 +1,10 @@
 ipykernel
 pandas
+numpy
 transformers
+torch
+spacy
+selenium
+beautifulsoup4
+lxml
+thefuzz
